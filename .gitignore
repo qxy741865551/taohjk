@@ -1,0 +1,13 @@
+*.classpath
+/.settings
+/.idea
+*.project
+jetty.xml
+jetty-env.xml
+/target
+/bin
+/null
+/target
+/work
+/src/main/webappres/version.properties
+*.lua
